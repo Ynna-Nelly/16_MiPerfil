@@ -1,0 +1,98 @@
+*{
+	font-family: 'Oswald';
+}
+
+.bck{
+	background-image: url("../images/portada.jpg");
+	width: 100%;
+	height: 500px;
+}
+
+li{
+	font-size: 24px;
+	list-style:none;
+	display: inline-block;
+	margin-left: 10%;
+	color: black;
+	text-align: center;
+}
+
+a {
+	text-decoration:none;
+	color: black;
+}
+
+#right{
+	margin-left: 350px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#white{
+	color: white;
+	font-size: 40px;
+	margin-top: 180px;
+}
+
+#white2{
+	color: white;
+	font-size: 25px;
+	margin-top: 20px;	
+}
+
+.top{
+	margin-top: 20px;
+}
+
+#redondo{
+	border-radius:100%;
+}
+
+.titulo{
+	font-size: 30px;
+	color: #0B2161;
+	padding-top: 100px;
+}
+
+.titulo2{
+	font-size: 20px;
+	color: #0B2161;
+	padding-top: 30px;
+}
+
+#ynna{
+	border: 1px solid #0B2161;
+	padding: 5px;
+	margin-left: 30%;
+}
+
+.circulo{
+	border-radius:100%;	
+	border: 1px solid #0B2161;
+	padding: 5px;
+	width: 250px;
+}
+
+.circulo2{
+	border-radius:100%;	
+	width: 150px;
+	margin-left: 20px;
+}
+
+.circulo3{
+	border: 1px solid #0B2161;
+	padding: 5px;
+	border-radius:100%;	
+	width: 250px;
+	margin-left: 30px;
+}
+
+#footer{
+	background-image: url("../images/tile2.png");
+	background-repeat: repeat; 
+}
+
+#acerca{
+	background-image: url("../images/tile1.png");
+	background-repeat: repeat;
+}
